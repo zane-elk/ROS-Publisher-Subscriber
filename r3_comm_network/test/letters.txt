@@ -1,0 +1,8 @@
+AB: This is the string message representing the letter
+A: This is the string message representing the letter
+B: This is the string message representing the letter
+ABC: This is the string message representing the letter
+: This is the string message representing the letter
+This is the string message representing the letter
+A This is the string message representing the letter
+       AB: This is the string message representing the letter 

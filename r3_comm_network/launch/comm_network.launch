@@ -1,0 +1,6 @@
+<launch>
+    <node pkg="r3_comm_network" type="mailbox_A" output="screen" name="mailbox_A" />
+    <node pkg="r3_comm_network" type="mailbox_B" output="screen" name="mailbox_B" />
+    <node pkg="r3_comm_network" type="mailman_node" output="screen" name="mailman_node" />
+    <node pkg="r3_comm_network" type="post_office_node" output="screen" name="post_office_node" />
+</launch>
